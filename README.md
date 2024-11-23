@@ -41,7 +41,7 @@
 </p>
 
 <div align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1yNmRraWp2MWM4emgxcnlxdjA0cDNnNDN0dmVwcHplbnlmNjR5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eFvs5iE6a6ntVIRaEN/giphy.gif" alt="Cyberpunk Right" width="250" />
+  <img src="https://i.pinimg.com/originals/f7/10/e7/f710e78fff8652a3c9faa1c60b379c53.gif" alt="cartoon" width="250" />
 </div>
 
 <p align="center">
@@ -68,6 +68,5 @@
 <p align="center">
   - I’m passionate about **Penetration Testing**, **Ethical Hacking**, and **Bug Bounties**.  
   - Continuously learning new techniques and tools to stay ahead in the cybersecurity space.  
-  - Always open to collaborate on cybersecurity research and projects.  
 </p>
 
