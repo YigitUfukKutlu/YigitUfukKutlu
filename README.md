@@ -2,13 +2,10 @@
 
 [![giphy.webp](https://i.postimg.cc/76VfMhJV/giphy.webp)](https://postimg.cc/CBRhwFNB)
 
-<h1 align="center">🌐 Welcome to My Cybersecurity World 🌐</h1>
+<h1 align="center">🌐 Welcome 🌐</h1>
 
 <h3 align="center">
-🔒 Exploring the realms of cybersecurity, penetration testing, and ethical hacking.  
-🚀 Passionate about uncovering vulnerabilities and building a safer digital world.  
-🌱 Constantly evolving through bug bounty programs and cybersecurity practices.  
-💡 "Security is not a product, but a process." - Bruce Schneier
+Just cyber security
 </h3>
 
 ---
