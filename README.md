@@ -63,7 +63,6 @@ Just cyber security
 ### 💻 About Me:
 
 <p align="center">
-  - I’m passionate about **Penetration Testing**, **Ethical Hacking**, and **Bug Bounties**.  
-  - Continuously learning new techniques and tools to stay ahead in the cybersecurity space.  
+  I like building things, breaking things.
 </p>
 
