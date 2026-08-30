@@ -1,68 +1,149 @@
-<h1 align="center">Hello, I'm Yiğit Ufuk Kutlu </h1>
-
-[![giphy.webp](https://i.postimg.cc/76VfMhJV/giphy.webp)](https://postimg.cc/CBRhwFNB)
-
-<h1 align="center">🌐 Welcome 🌐</h1>
+<h1 align="center">Hello, I'm Yiğit Ufuk Kutlu 👋</h1>
 
 <h3 align="center">
-Just cyber security
+  Software Developer • AI Enthusiast • Cybersecurity Explorer
 </h3>
+
+<p align="center">
+  I build software, explore new technologies and occasionally break things to understand how they work.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yigitufukkutlu&label=Profile%20Views&color=00bfff&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/76VfMhJV/giphy.webp" alt="Cyberpunk Banner" width="700" />
+</p>
 
 ---
 
-### 🎧 Spotify Now Playing:
+## 👨‍💻 About Me
+
+- 💻 Interested in general software development
+- 🌐 Building web applications and digital products
+- 📱 Exploring mobile application development
+- 🤖 Interested in artificial intelligence and automation
+- 🔐 Learning cybersecurity and system security
+- 🐧 Enjoy working with Linux and open-source technologies
+- 🚀 Always experimenting with new ideas and technologies
+
+---
+
+## 🛠️ Technologies and Tools
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj?si=6739e68fb5974e8e" target="_blank">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C Sharp" width="48" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+  </a>
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48" height="48" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="48" height="48" />
+  </a>
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Mobile%20Development-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
+</p>
+
+---
+
+## 🎧 Spotify Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj" target="_blank">
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
   </a>
 </p>
 
-
 ---
 
-### 🛠️ Technologies and Tools:
-
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio code" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img 
-
----
-
-### 🚀 GitHub Stats:
-
-<div align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRrMWx3czk5djRoM3ZjbjNpZmwwYWJwMXU5ZXIweTUxNXJ3YXJxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" alt="Cyberpunk Left" width="250" />
-</div>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yigitufukkutlu&show_icons=true&locale=en" alt="YigitUfukKutlu" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yigitufukkutlu&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitufukkutlu&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+    height="170"
+  />
 </p>
 
-<div align="right">
-  <img src="https://i.pinimg.com/originals/f7/10/e7/f710e78fff8652a3c9faa1c60b379c53.gif" alt="cartoon" width="250" />
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yigitufukkutlu&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yigitufukkutlu&" alt="YigitUfukKutlu" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yigitufukkutlu&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
+    width="95%"
+  />
 </p>
 
 ---
 
-### 🌐 Connect with Me:
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yigitufukkutlu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://linkedin.com/in/yigitufukkutlu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yiğit%20Ufuk%20Kutlu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/y.ufuk.k" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <a href="https://instagram.com/y.ufuk.k" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@y.ufuk.k-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💻 About Me:
-
 <p align="center">
-  I like building things, breaking things.
+  <i>“Build it. Break it. Understand it. Improve it.”</i>
 </p>
 
+<p align="center">
+  Thanks for visiting my profile!
+</p>
