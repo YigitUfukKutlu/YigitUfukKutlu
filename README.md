@@ -83,15 +83,6 @@
   <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
 </p>
 
----
-
-## 🎧 Spotify Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj" target="_blank">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
-  </a>
-</p>
 
 ---
 
