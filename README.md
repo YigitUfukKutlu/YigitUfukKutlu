@@ -90,14 +90,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yigitufukkutlu&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yigitufukkutlu&theme=tokyonight"
+    alt="GitHub Stats"
+    height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitufukkutlu&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yigitufukkutlu&theme=tokyonight"
+    alt="Languages"
+    height="180"
   />
 </p>
 
@@ -110,12 +110,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yigitufukkutlu&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yigitufukkutlu&theme=tokyonight"
+    alt="GitHub Profile Details"
     width="95%"
   />
 </p>
-
 ---
 
 ## 🌐 Connect with Me
