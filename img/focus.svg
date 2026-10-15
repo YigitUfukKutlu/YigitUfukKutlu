@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196" role="img" aria-label="Focus areas">
+<title>Focus areas</title>
+<style>text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','Cascadia Code','Fira Code',ui-monospace,'SF Mono',Consolas,Menlo,monospace}</style>
+<g transform="translate(0 0)">
+  <rect x="0.5" y="0.5" width="284" height="91" rx="16" fill="#0b1220" stroke="#1c2a48"/>
+  <text class="m" x="20" y="28" font-size="11" letter-spacing="1.5" fill="#4cc2ff">01</text>
+  <circle cx="263" cy="24" r="3" fill="#1c2a48"/>
+  <text x="20" y="56" font-size="16" font-weight="600" fill="#e6edf7">Software Development</text>
+  <text class="m" x="20" y="76" font-size="11.5" fill="#8a9ab8">Clean, working code</text>
+</g>
+<g transform="translate(297 0)">
+  <rect x="0.5" y="0.5" width="284" height="91" rx="16" fill="#0b1220" stroke="#1c2a48"/>
+  <text class="m" x="20" y="28" font-size="11" letter-spacing="1.5" fill="#4cc2ff">02</text>
+  <circle cx="263" cy="24" r="3" fill="#1c2a48"/>
+  <text x="20" y="56" font-size="16" font-weight="600" fill="#e6edf7">Artificial Intelligence</text>
+  <text class="m" x="20" y="76" font-size="11.5" fill="#8a9ab8">Assistants &amp; smart tooling</text>
+</g>
+<g transform="translate(594 0)">
+  <rect x="0.5" y="0.5" width="285" height="91" rx="16" fill="#0b1220" stroke="#1c2a48"/>
+  <text class="m" x="20" y="28" font-size="11" letter-spacing="1.5" fill="#4cc2ff">03</text>
+  <circle cx="264" cy="24" r="3" fill="#1c2a48"/>
+  <text x="20" y="56" font-size="16" font-weight="600" fill="#e6edf7">Cybersecurity</text>
+  <text class="m" x="20" y="76" font-size="11.5" fill="#8a9ab8">Learning how systems break</text>
+</g>
+<g transform="translate(0 104)">
+  <rect x="0.5" y="0.5" width="284" height="91" rx="16" fill="#0b1220" stroke="#1c2a48"/>
+  <text class="m" x="20" y="28" font-size="11" letter-spacing="1.5" fill="#4cc2ff">04</text>
+  <circle cx="263" cy="24" r="3" fill="#1c2a48"/>
+  <text x="20" y="56" font-size="16" font-weight="600" fill="#e6edf7">Web Development</text>
+  <text class="m" x="20" y="76" font-size="11.5" fill="#8a9ab8">Web apps &amp; digital products</text>
+</g>
+<g transform="translate(297 104)">
+  <rect x="0.5" y="0.5" width="284" height="91" rx="16" fill="#0b1220" stroke="#1c2a48"/>
+  <text class="m" x="20" y="28" font-size="11" letter-spacing="1.5" fill="#4cc2ff">05</text>
+  <circle cx="263" cy="24" r="3" fill="#1c2a48"/>
+  <text x="20" y="56" font-size="16" font-weight="600" fill="#e6edf7">Mobile Development</text>
+  <text class="m" x="20" y="76" font-size="11.5" fill="#8a9ab8">Android apps &amp; experiences</text>
+</g>
+<g transform="translate(594 104)">
+  <rect x="0.5" y="0.5" width="285" height="91" rx="16" fill="#0b1220" stroke="#1c2a48"/>
+  <text class="m" x="20" y="28" font-size="11" letter-spacing="1.5" fill="#4cc2ff">06</text>
+  <circle cx="264" cy="24" r="3" fill="#1c2a48"/>
+  <text x="20" y="56" font-size="16" font-weight="600" fill="#e6edf7">Automation &amp; Linux</text>
+  <text class="m" x="20" y="76" font-size="11.5" fill="#8a9ab8">Scripts, bots &amp; open source</text>
+</g>
+</svg>

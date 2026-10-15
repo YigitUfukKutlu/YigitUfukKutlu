@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="52" viewBox="0 0 880 52" role="img" aria-label="03 focus">
+<title>03 focus</title>
+<style>.m{font-family:'JetBrains Mono','Cascadia Code','Fira Code',ui-monospace,'SF Mono',Consolas,Menlo,monospace}</style>
+<rect width="880" height="52" rx="14" fill="#0b1220"/>
+<rect x="0.5" y="0.5" width="879" height="51" rx="13.5" fill="none" stroke="#1c2a48"/>
+<text class="m" x="22" y="31" font-size="12" fill="#3b4f7a">03</text>
+<text class="m" x="58" y="32" font-size="16" font-weight="700" textLength="69" lengthAdjust="spacingAndGlyphs"><tspan fill="#4cc2ff">~/</tspan><tspan fill="#e6edf7">focus</tspan></text>
+<line x1="145" y1="26" x2="714" y2="26" stroke="#1c2a48"/>
+<text class="m" x="858" y="30" font-size="12" fill="#5c7099" text-anchor="end" textLength="126" lengthAdjust="spacingAndGlyphs">// what i explore</text>
+</svg>
