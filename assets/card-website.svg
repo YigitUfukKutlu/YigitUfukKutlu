@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="434" height="190" viewBox="0 0 434 190" role="img" aria-label="Website: ufukkutlu.com">
+<title>Website: ufukkutlu.com</title>
+<defs>
+  <radialGradient id="g" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#ff714f" stop-opacity="0.2"/><stop offset="1" stop-color="#ff714f" stop-opacity="0"/></radialGradient>
+</defs>
+<style>text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','DM Mono',ui-monospace,'SF Mono',Consolas,Menlo,monospace}</style>
+<rect width="434" height="190" rx="20" fill="#151514"/>
+<rect width="434" height="190" rx="20" fill="url(#g)"/>
+<rect x="0.5" y="0.5" width="433" height="189" rx="19.5" fill="none" stroke="#2e2d2a"/>
+<circle cx="30" cy="35" r="3" fill="#ff714f"/>
+<text class="m" x="42" y="39" font-size="11" letter-spacing="2.2" fill="#a5a39b">WEBSITE</text>
+<circle cx="392" cy="38" r="18" fill="none" stroke="#ff714f" stroke-width="1.5"/>
+<path d="M385 45 L399 31 M391 31 H399 V39" fill="none" stroke="#ff714f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="102" font-size="34" font-weight="700"><tspan fill="#eeece6">ufukkutlu</tspan><tspan fill="#ff714f">.com</tspan></text>
+<rect x="28" y="114" width="0" height="2" rx="1" fill="#ff714f">
+  <animate attributeName="width" values="0;232;232;0" keyTimes="0;0.35;0.8;1" dur="5s" repeatCount="indefinite"/>
+</rect>
+<text x="28" y="146" font-size="14" fill="#a5a39b">Projects, stack and the full story,</text>
+<text x="28" y="166" font-size="14" fill="#a5a39b">all in one place.</text>
+</svg>

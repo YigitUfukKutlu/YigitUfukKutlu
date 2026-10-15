@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="320" viewBox="0 0 880 320" role="img" aria-label="Yiğit Ufuk Kutlu: I code. I build systems. I ship.">
+<title>Yiğit Ufuk Kutlu: I code. I build systems. I ship.</title>
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#2e2d2a"/></pattern>
+  <radialGradient id="glow" cx="0.74" cy="0.5" r="0.5"><stop offset="0" stop-color="#ff714f" stop-opacity="0.26"/><stop offset="1" stop-color="#ff714f" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif}
+  .m{font-family:'JetBrains Mono','DM Mono',ui-monospace,'SF Mono',Consolas,Menlo,monospace}
+  .up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+  .cur{opacity:0;animation:blink 1.1s steps(1) 1.3s infinite}
+  @keyframes blink{0%{opacity:1}50%{opacity:0}}
+</style>
+<rect width="880" height="320" rx="22" fill="#151514"/>
+<rect width="880" height="320" rx="22" fill="url(#dots)"/>
+<rect width="880" height="320" rx="22" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="879" height="319" rx="21.5" fill="none" stroke="#2e2d2a"/>
+
+<text class="m" x="40" y="42" font-size="11" letter-spacing="2.2" fill="#a5a39b">DIGITAL PRODUCTS / 01</text>
+<text class="m" x="840" y="42" font-size="11" letter-spacing="2.2" fill="#a5a39b" text-anchor="end">UFUKKUTLU.COM</text>
+<line x1="40" y1="60" x2="840" y2="60" stroke="#2e2d2a"/>
+
+<g font-size="52" font-weight="700">
+  <text class="up" style="animation-delay:.15s" x="40" y="128" fill="#eeece6" textLength="161" lengthAdjust="spacingAndGlyphs">I code.</text>
+  <text class="up" style="animation-delay:.45s" x="40" y="186" fill="#eeece6" textLength="377" lengthAdjust="spacingAndGlyphs">I build systems.</text>
+  <text class="up" style="animation-delay:.75s" x="40" y="244" fill="#ff714f" textLength="147" lengthAdjust="spacingAndGlyphs">I ship.</text>
+</g>
+<rect class="cur" x="198" y="208" width="5" height="38" fill="#ff714f"/>
+
+<line x1="40" y1="268" x2="840" y2="268" stroke="#2e2d2a"/>
+<text class="m" x="40" y="297" font-size="13" letter-spacing="3" fill="#eeece6" textLength="176" lengthAdjust="spacingAndGlyphs">YİĞİT UFUK KUTLU</text>
+<text class="m" x="240" y="297" font-size="11" letter-spacing="2.2" fill="#a5a39b">SOFTWARE DEVELOPER &amp; FOUNDER</text>
+
+<!-- monogram -->
+<g>
+  <circle cx="650" cy="160" r="92" fill="none" stroke="#2e2d2a"/>
+  <circle cx="650" cy="160" r="76" fill="none" stroke="#a5a39b" stroke-opacity=".45" stroke-dasharray="2 7" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="0 650 160" to="-360 650 160" dur="50s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+    <circle cx="742" cy="160" r="4.5" fill="#ff714f"/>
+    <circle cx="742" cy="160" r="9" fill="#ff714f" fill-opacity=".25"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 650 160" to="360 650 160" dur="14s" repeatCount="indefinite"/>
+  </g>
+  <rect x="600" y="110" width="100" height="100" rx="24" fill="#1c1c1a" stroke="#2e2d2a"/>
+  <text x="632" y="177" font-size="46" font-weight="700" fill="#eeece6" text-anchor="middle">U</text>
+  <text x="670" y="177" font-size="46" font-weight="700" fill="#ff714f" text-anchor="middle">K</text>
+</g>
+
+<!-- input / build / ship -->
+<line x1="772" y1="116" x2="772" y2="204" stroke="#2e2d2a"/>
+<g class="m" font-size="11" letter-spacing="2">
+  <text x="788" y="126" fill="#a5a39b">01 INPUT<animate attributeName="fill" calcMode="discrete" dur="4.5s" repeatCount="indefinite" keyTimes="0;0.333;0.666;1" values="#ff714f;#a5a39b;#a5a39b;#ff714f"/></text>
+  <text x="788" y="164" fill="#a5a39b">02 BUILD<animate attributeName="fill" calcMode="discrete" dur="4.5s" repeatCount="indefinite" keyTimes="0;0.333;0.666;1" values="#a5a39b;#ff714f;#a5a39b;#a5a39b"/></text>
+  <text x="788" y="202" fill="#a5a39b">03 SHIP<animate attributeName="fill" calcMode="discrete" dur="4.5s" repeatCount="indefinite" keyTimes="0;0.333;0.666;1" values="#a5a39b;#a5a39b;#ff714f;#ff714f"/></text>
+</g>
+</svg>
