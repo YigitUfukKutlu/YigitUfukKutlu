@@ -1,53 +1,57 @@
 <p align="center">
-  <img src="img/header.svg" alt="Yiğit Ufuk Kutlu — software developer, AI enthusiast, cybersecurity explorer" width="100%" />
+  <img src="visuals/header.svg" alt="Yiğit Ufuk Kutlu — Software Developer. AI, automation, cybersecurity." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yigitufukkutlu"><img src="https://img.shields.io/badge/LinkedIn-yigitufukkutlu-1c2a48?style=flat-square&logo=linkedin&logoColor=4cc2ff&labelColor=0b1220" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=yigitufukkutlu&label=Profile%20Views&color=4cc2ff&labelColor=0b1220&style=flat-square" alt="Profile views" />
+  <a href="https://linkedin.com/in/yigitufukkutlu"><img src="https://img.shields.io/badge/LinkedIn-yigitufukkutlu-16243f?style=flat-square&logo=linkedin&logoColor=5aa9e6&labelColor=0a1122" alt="LinkedIn" /></a>
 </p>
 
-<!-- 01 · ABOUT -->
-<p align="center"><img src="img/title-about.svg" alt="01 About" width="100%" /></p>
+<p align="center"><img src="visuals/section-about.svg" alt="01 About" width="100%" /></p>
 
-Software developer with a soft spot for **AI**, **automation** and **cybersecurity**.
-I build web and mobile applications, tinker with Linux and open-source tools, and take things apart on purpose to understand how they work — then put them back together better.
+Software developer working on web and mobile applications, with a strong interest in artificial intelligence, automation and cybersecurity.
+I enjoy Linux and open-source tooling, and I learn by taking systems apart to understand how they work — and how they fail.
 
-<!-- 02 · STACK -->
-<p align="center"><img src="img/title-stack.svg" alt="02 Stack" width="100%" /></p>
+<p align="center"><img src="visuals/section-technologies.svg" alt="02 Technologies" width="100%" /></p>
 
 <p>
-  <img src="img/label-languages.svg" height="48" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css" height="48" alt="Python, C#, JavaScript, HTML, CSS" />
+  <sub><b>LANGUAGES</b></sub><br />
+  <img src="https://img.shields.io/badge/Python-16243f?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-16243f?style=flat-square" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-16243f?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-16243f?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-16243f?style=flat-square" alt="CSS" />
 </p>
 <p>
-  <img src="img/label-mobile-data.svg" height="48" alt="Mobile and data" />
-  <img src="https://skillicons.dev/icons?i=androidstudio,mysql,mongodb" height="48" alt="Android Studio, MySQL, MongoDB" />
+  <sub><b>MOBILE &amp; DATA</b></sub><br />
+  <img src="https://img.shields.io/badge/Android_Studio-16243f?style=flat-square" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/MySQL-16243f?style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-16243f?style=flat-square" alt="MongoDB" />
 </p>
 <p>
-  <img src="img/label-tools.svg" height="48" alt="Tools and OS" />
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,visualstudio" height="48" alt="Git, Linux, VS Code, Visual Studio" />
+  <sub><b>TOOLS &amp; OS</b></sub><br />
+  <img src="https://img.shields.io/badge/Git-16243f?style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-16243f?style=flat-square" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-16243f?style=flat-square" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-16243f?style=flat-square" alt="Visual Studio" />
 </p>
 
-<!-- 03 · FOCUS -->
-<p align="center"><img src="img/title-focus.svg" alt="03 Focus" width="100%" /></p>
+<p align="center"><img src="visuals/section-focus.svg" alt="03 Focus" width="100%" /></p>
+
+- **Software development** — building clean, working applications for web and mobile
+- **Artificial intelligence & automation** — assistants, scripts and tooling that remove manual work
+- **Cybersecurity** — learning how systems are attacked in order to build them better
+- **Linux & open source** — my everyday environment and toolchain
+
+<!-- All cards in this section update automatically -->
+<p align="center"><img src="visuals/section-activity.svg" alt="04 Activity" width="100%" /></p>
 
 <p align="center">
-  <img src="img/focus.svg" alt="Software development, AI, cybersecurity, web, mobile, automation and Linux" width="100%" />
-</p>
-
-<!-- 04 · STATS (all cards below update automatically) -->
-<p align="center"><img src="img/title-stats.svg" alt="04 Stats" width="100%" /></p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yigitufukkutlu&show_icons=true&hide_rank=true&border_radius=20&bg_color=0b1220&border_color=1c2a48&title_color=4cc2ff&icon_color=4cc2ff&text_color=e6edf7" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=yigitufukkutlu&border_radius=20&background=0b1220&border=1c2a48&stroke=1c2a48&ring=4cc2ff&fire=4cc2ff&currStreakNum=e6edf7&currStreakLabel=4cc2ff&sideNums=e6edf7&sideLabels=8a9ab8&dates=8a9ab8" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yigitufukkutlu&show_icons=true&hide_rank=true&border_radius=6&bg_color=0a1122&border_color=1d2b4a&title_color=5aa9e6&icon_color=5aa9e6&text_color=dce6f5" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=yigitufukkutlu&border_radius=6&background=0a1122&border=1d2b4a&stroke=1d2b4a&ring=5aa9e6&fire=5aa9e6&currStreakNum=dce6f5&currStreakLabel=5aa9e6&sideNums=dce6f5&sideLabels=7f90ae&dates=7f90ae" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitufukkutlu&layout=compact&langs_count=8&card_width=880&border_radius=20&bg_color=0b1220&border_color=1c2a48&title_color=4cc2ff&text_color=e6edf7" alt="Most used languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitufukkutlu&layout=compact&langs_count=8&card_width=880&border_radius=6&bg_color=0a1122&border_color=1d2b4a&title_color=5aa9e6&text_color=dce6f5" alt="Most used languages" />
 </p>
 
-<p align="center">
-  <img src="img/footer.svg" alt="Build it. Break it. Understand it. Improve it." width="100%" />
-</p>
+<p align="center"><sub><i>Build it. Break it. Understand it. Improve it.</i></sub></p>
