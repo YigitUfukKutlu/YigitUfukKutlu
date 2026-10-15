@@ -18,8 +18,24 @@ I enjoy Linux and open-source tooling, and I learn by taking systems apart to un
   <img src="https://img.shields.io/badge/Python-16243f?style=flat-square" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-16243f?style=flat-square" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-16243f?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-16243f?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-16243f?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-16243f?style=flat-square" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PHP-16243f?style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-16243f?style=flat-square" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Bash-16243f?style=flat-square" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-16243f?style=flat-square" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/SQL-16243f?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML-16243f?style=flat-square" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-16243f?style=flat-square" alt="CSS" />
+</p>
+<p>
+  <sub><b>WEB &amp; BACKEND</b></sub><br />
+  <img src="https://img.shields.io/badge/Node.js-16243f?style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-16243f?style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-16243f?style=flat-square" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-16243f?style=flat-square" alt="Django" />
+  <img src="https://img.shields.io/badge/.NET-16243f?style=flat-square" alt=".NET" />
 </p>
 <p>
   <sub><b>MOBILE &amp; DATA</b></sub><br />
@@ -28,8 +44,20 @@ I enjoy Linux and open-source tooling, and I learn by taking systems apart to un
   <img src="https://img.shields.io/badge/MongoDB-16243f?style=flat-square" alt="MongoDB" />
 </p>
 <p>
+  <sub><b>SECURITY</b></sub><br />
+  <img src="https://img.shields.io/badge/Kali_Linux-16243f?style=flat-square" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-16243f?style=flat-square" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-16243f?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-16243f?style=flat-square" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-16243f?style=flat-square" alt="Metasploit" />
+</p>
+<p>
   <sub><b>TOOLS &amp; OS</b></sub><br />
   <img src="https://img.shields.io/badge/Git-16243f?style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-16243f?style=flat-square" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-16243f?style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-16243f?style=flat-square" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-16243f?style=flat-square" alt="Figma" />
   <img src="https://img.shields.io/badge/Linux-16243f?style=flat-square" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-16243f?style=flat-square" alt="VS Code" />
   <img src="https://img.shields.io/badge/Visual_Studio-16243f?style=flat-square" alt="Visual Studio" />
