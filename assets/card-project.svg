@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="182" viewBox="0 0 880 182" role="img" aria-label="Featured project: webvuln-scanner">
+<title>Featured project: webvuln-scanner</title>
+<defs>
+  <radialGradient id="g" cx="1" cy="0" r="0.7"><stop offset="0" stop-color="#ff714f" stop-opacity="0.2"/><stop offset="1" stop-color="#ff714f" stop-opacity="0"/></radialGradient>
+</defs>
+<style>text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','DM Mono',ui-monospace,'SF Mono',Consolas,Menlo,monospace}</style>
+<rect width="880" height="182" rx="20" fill="#151514"/>
+<rect width="880" height="182" rx="20" fill="url(#g)"/>
+<rect x="0.5" y="0.5" width="879" height="181" rx="19.5" fill="none" stroke="#2e2d2a"/>
+<circle cx="32" cy="38" r="3" fill="#ff714f"/>
+<text class="m" x="44" y="42" font-size="11" letter-spacing="2.2" fill="#a5a39b">FEATURED PROJECT</text>
+<circle cx="836" cy="40" r="18" fill="none" stroke="#ff714f" stroke-width="1.5"/>
+<path d="M829 47 L843 33 M835 33 H843 V41" fill="none" stroke="#ff714f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="30" y="92" font-size="30" font-weight="700"><tspan fill="#eeece6">webvuln</tspan><tspan fill="#ff714f">-scanner</tspan></text>
+<text x="30" y="120" font-size="14" fill="#a5a39b">A Python-based web vulnerability scanner that detects</text>
+<text x="30" y="140" font-size="14" fill="#a5a39b">SQL Injection, XSS, CSRF and Directory Traversal.</text>
+<rect x="570" y="108" width="50" height="24" rx="12" fill="#1c1c1a" stroke="#2e2d2a"/><text class="m" x="581" y="124" font-size="10" letter-spacing="1.2" fill="#eeece6" textLength="28" lengthAdjust="spacingAndGlyphs">SQLI</text>
+<rect x="628" y="108" width="42" height="24" rx="12" fill="#1c1c1a" stroke="#2e2d2a"/><text class="m" x="639" y="124" font-size="10" letter-spacing="1.2" fill="#eeece6" textLength="20" lengthAdjust="spacingAndGlyphs">XSS</text>
+<rect x="678" y="108" width="50" height="24" rx="12" fill="#1c1c1a" stroke="#2e2d2a"/><text class="m" x="689" y="124" font-size="10" letter-spacing="1.2" fill="#eeece6" textLength="28" lengthAdjust="spacingAndGlyphs">CSRF</text>
+<rect x="736" y="108" width="114" height="24" rx="12" fill="#1c1c1a" stroke="#2e2d2a"/><text class="m" x="747" y="124" font-size="10" letter-spacing="1.2" fill="#eeece6" textLength="92" lengthAdjust="spacingAndGlyphs">DIR TRAVERSAL</text>
+<circle cx="36" cy="162" r="5" fill="#3572A5"/>
+<text class="m" x="48" y="166" font-size="11" letter-spacing="1.2" fill="#a5a39b">Python  /  MIT License</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="104" viewBox="0 0 880 104" role="img" aria-label="Build it. Break it. Understand it. Improve it.">
+<title>Build it. Break it. Understand it. Improve it.</title>
+<defs>
+  <radialGradient id="g" cx="0.5" cy="1" r="0.7"><stop offset="0" stop-color="#ff714f" stop-opacity="0.18"/><stop offset="1" stop-color="#ff714f" stop-opacity="0"/></radialGradient>
+</defs>
+<style>text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','DM Mono',ui-monospace,'SF Mono',Consolas,Menlo,monospace}</style>
+<rect width="880" height="104" rx="22" fill="#151514"/>
+<rect width="880" height="104" rx="22" fill="url(#g)"/>
+<rect x="0.5" y="0.5" width="879" height="103" rx="21.5" fill="none" stroke="#2e2d2a"/>
+<rect x="416" y="20" width="48" height="2" rx="1" fill="#ff714f"/>
+<text x="440" y="56" font-family="'Playfair Display',Georgia,'Times New Roman',serif" font-size="22" font-style="italic" fill="#eeece6" text-anchor="middle">“Build it. Break it. Understand it. Improve it.”</text>
+<text class="m" x="440" y="82" font-size="10.5" letter-spacing="2.2" fill="#a5a39b" text-anchor="middle">© 2026 YİĞİT UFUK KUTLU</text>
+</svg>
