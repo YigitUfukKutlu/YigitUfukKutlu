@@ -54,11 +54,3 @@ I build web and mobile applications, tinker with Linux and open-source tools, an
 <p align="center">
   <img src="assets/footer.svg" alt="Build it. Break it. Understand it. Improve it." width="100%" />
 </p>
-
-<p align="center">
-  <img src="assets/footer.svg" alt="Build it. Break it. Understand it. Improve it." width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yigitufukkutlu&label=Profile%20Views&color=ff714f&labelColor=151514&style=flat-square" alt="Profile views" />
-</p>
